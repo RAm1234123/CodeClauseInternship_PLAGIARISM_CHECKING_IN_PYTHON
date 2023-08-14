@@ -1,0 +1,1 @@
+# CodeClauseInternship_PLAGIARISM_CHECKING_IN_PYTHON
